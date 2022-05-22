@@ -22,12 +22,7 @@ d88P     888 888  888  "Y88888 888      "Y88888      888   T88b "Y888888  "Y888
 
 
 
-```python
-#python
-Rat ='Angry Rat'
-while True : 
-     print (Rat*1)
-```
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angry-rat&label=Profile%20views&color=0e75b6&style=flat" alt="angry-rat" /> </p>
